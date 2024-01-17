@@ -1,0 +1,116 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+.containerrr{
+	background: #2d3e3f;
+	width: 500px;
+	height: 500px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: auto;
+  padding: 70px 50px 20px 50px;
+}
+
+
+.fl{
+	float: left;
+  width: 110px;
+  line-height: 35px;
+}
+
+.fontLabel{
+  color: white;
+}
+
+.fr{
+	float: right;
+}
+
+.clr{
+	clear: both;
+}
+
+.box{
+	width: 400px;
+	height: 35px;
+	margin-top: 10px;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+.textBox{
+	height: 35px;
+	width: 220px;
+	border: none;
+  padding-left: 20px;
+}
+
+.new{
+  float: left;
+}
+
+.iconBox{
+	height: 35px;
+	width: 40px;
+	line-height: 38px;
+	text-align: center;
+  background: #ff6600;
+}
+
+.radio{
+	color: white;
+	background: #2d3e3f;
+	line-height: 38px;
+}
+
+.terms{
+	line-height: 35px;
+	text-align: center;
+	background: #2d3e3f;
+	color: white;
+}
+
+.submit{
+	float: right;
+	border: none;
+	color: white;
+	width: 110px;
+	height: 35px;
+	background: #ff6600;
+	text-transform: uppercase;
+  cursor: pointer;
+}
+
+.uManager{
+	color: rgb(247, 232, 232);
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.UpdateB{
+    background-image: url("../images/8.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+	width: 1300px;
+}
+
+.btnn {
+	background-color: #f0580d;
+	border: none;
+	color: white;
+	padding: 5px 30px;
+	text-align: center;
+	font-size: 16px;
+	margin: 24px 348px;
+	opacity: 0.6;
+	transition: 0.3s;
+  }
+  
+  .btnn:hover {opacity: 1}
+
